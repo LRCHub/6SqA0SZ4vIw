@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "俺ら東京さ行ぐだ",
+  "base_artist": "吉幾三",
+  "createdAt": "2026-01-05T17:13:09.096379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "俺ら東京さ行ぐだ",
+      "artist": "Ikuzo Yoshi",
+      "has_synced": true,
+      "path": "select/01_俺ら東京さ行ぐだ_Ikuzo_Yoshi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "俺ら東京さ行ぐだ",
+      "artist": "吉幾三",
+      "has_synced": true,
+      "path": "select/02_俺ら東京さ行ぐだ_吉幾三.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "俺ら東京さ行ぐだ",
+      "artist": "吉幾三",
+      "has_synced": false,
+      "path": "select/03_俺ら東京さ行ぐだ_吉幾三.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "俺ら東京さ行ぐだ",
+      "artist": "吉幾三",
+      "has_synced": false,
+      "path": "select/pl_01_俺ら東京さ行ぐだ_吉幾三.txt"
+    }
+  ]
+}
